@@ -1,0 +1,6 @@
+[submodule ".repo/blog-content"]
+	path = .repo/blog-content
+	url = git@github.com:mogeko/blog.git
+[submodule ".repo/blog-images"]
+	path = .repo/blog-images
+	url = git@github.com:mogeko/blog-images.git
