@@ -1,0 +1,8 @@
+{
+    "markdownlint.config": {
+        "extends": ".repo/blog-content/.github/linters/.markdownlint.json"
+    },
+    "markdownlint.ignore": [
+        "LICENSE.md"
+    ]
+}
